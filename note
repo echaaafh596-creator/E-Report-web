@@ -1,0 +1,62 @@
+to do list
+
+1. membuat data awal
+2. membuat koneksi ke data awal
+3. menampilkan data awal pada halaman web
+4. menambahkan data melalui form
+
+
+
+                    <tr>
+                        <td class="reporter">Raditya Pratama</td>
+                        <td>AC</td>
+                        <td>AC lab komputer 2 bocor dan menetes ke meja siswa. Tidak dingin.</td>
+                        <td><span class="status waiting">Menunggu</span></td>
+                        <td class="actions">
+                            <button class="done-btn">Selesai</button>
+                            <button class="delete-btn">Hapus</button>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td class="reporter">Bpk. Haryanto</td>
+                        <td>Komputer</td>
+                        <td>PC nomor 08 di Lab Jaringan mati total, power supply tidak menyala.</td>
+                        <td><span class="status waiting">Menunggu</span></td>
+                        <td class="actions">
+                            <button class="done-btn">Selesai</button>
+                            <button class="delete-btn">Hapus</button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="reporter">Ahmad Fauzi</td>
+                        <td>Sanitasi</td>
+                        <td>Keran wastafel toilet lantai 1 rusak dan air meluap.</td>
+                        <td><span class="status waiting">Menunggu</span></td>
+                        <td class="actions">
+                            <button class="done-btn">Selesai</button>
+                            <button class="delete-btn">Hapus</button>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td class="reporter completed-text">Siti Nurhaliza</td>
+                        <td>Furnitur</td>
+                        <td class="completed-text">2 unit kursi kayu patah pada sandaran di ruang kelas XI DKV 2</td>
+                        <td><span class="status finished">Selesai</span></td>
+                        <td class="actions">
+                            <button class="cancel-btn" disabled>Batal</button>
+                            <button class="delete-btn">Hapus</button>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td class="reporter completed-text">Ibu Maya</td>
+                        <td>Lainnya</td>
+                        <td class="completed-text">Kabel HDMI proyektor ruang teori 04 longgar dan bergoyang</td>
+                        <td><span class="status finished">Selesai</span></td>
+                        <td class="actions">
+                            <button class="cancel-btn" disabled>Batal</button>
+                            <button class="delete-btn">Hapus</button>
+                        </td>
+                    </tr>
